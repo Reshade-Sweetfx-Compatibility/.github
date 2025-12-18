@@ -73,7 +73,7 @@ For the technically inclined, ReShade supports custom shader writing, fostering 
 
 ## 🖼️ Application Interface Preview
 <div align="center">
-  <img src="https://www.guru3d.com/data/publish/174/4cebb339ef3d9ec51be434069ba0a6787dba6e/78687.webp" alt="ReShade Interface Screenshot"/>
+  <img src="https://gamebooster.itopvpn.com/upload/1582601054431447.jpg" alt="ReShade Interface Screenshot"/>
 </div>
 
 ---
